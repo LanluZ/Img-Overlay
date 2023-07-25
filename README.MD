@@ -17,8 +17,6 @@ https://github.com/LanluZ/Img-Overlay/releases/tag/1.0
 
 ## 使用案例
 
-### QQ
-
 运行前：
 
 ![001](./README/001.png)
