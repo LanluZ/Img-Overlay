@@ -6,7 +6,7 @@
 
 ## 下载
 
-https://github.com/LanluZ/Img-Overlay/releases/tag/1.0
+[Release](https://github.com/LanluZ/Img-Overlay/releases/tag/1.0)
 
 ## 使用   
 
@@ -19,8 +19,8 @@ https://github.com/LanluZ/Img-Overlay/releases/tag/1.0
 
 运行前：
 
-![001](./README/001.png)
+![001](./images/001.png)
 
 运行后：
 
-![001](./README/002.png)
+![001](./images/002.png)
