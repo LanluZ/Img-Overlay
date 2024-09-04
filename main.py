@@ -9,7 +9,7 @@ def main():
     # 透明度
     transparent = 0.5
     # 欲叠加图片路径
-    add_img_path = './pic.png'
+    add_img_path = 'images/pic.png'
     # 读取欲叠加图片
     add_img = cv2.imread(add_img_path, cv2.IMREAD_UNCHANGED)
 
